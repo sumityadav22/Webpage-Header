@@ -40,3 +40,8 @@ ul li a:hover{
 	width: 150px;
 	height: auto;
 }
+
+.main {
+	max-width: 1200px;
+	margin: auto;
+}
