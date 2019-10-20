@@ -50,3 +50,10 @@ ul li.active a{
 	background-color: #fff;
 	color: #000;
 }
+
+.title{
+	position: absolute;
+	transform: translate(-50%,-50%);
+	top: 50%;
+	left: 50%;
+}
