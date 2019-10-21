@@ -40,3 +40,14 @@ body{
 	float: left;
 	text-align: center;
 }
+
+.textbox input{
+	border: none;
+	outline: none;
+	background: none;
+	color: #fff;
+	font-size: 18px;
+	width: 80%;
+	float: left;
+	margin: 0 10px;
+}
