@@ -1,3 +1,5 @@
+@import "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+
 body{
 	margin: 0;
 	padding: 0;
@@ -31,4 +33,10 @@ body{
 	padding: 8px 0;
 	margin: 8px 0;
 	border-bottom: 1px solid #4caf50;
+}
+
+.textbox i{
+	width: 26px;
+	float: left;
+	text-align: center;
 }
