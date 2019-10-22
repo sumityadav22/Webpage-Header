@@ -31,3 +31,20 @@ h1{
 	font-weight: 300;
 	font-size: 28px;
 }
+
+input[type = "text"], input[type = "password"], input[type = "email"]
+{
+	display: block;
+	box-sizing: border-box;
+	margin-bottom: 20px;
+	padding: 4px;
+	width: 220px;
+	height: 32px;
+	border: none;
+	outline: none;
+	border-bottom: 1px solid #aaa;
+	font-family: comic sans ms;
+	font-weight: 400;
+	font-size: 15px;
+	transition: 0.2s ease;
+}
