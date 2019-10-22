@@ -108,4 +108,18 @@ input[type = "submit"]:hover, input[type = "submit"]:focus
 	color: #fff;
 	text-align: center;
 	text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
-} 
+}
+
+button.social
+{
+	margin-bottom: 20px;
+	width: 220px;
+	height: 36px;
+	border: none;
+	border-radius: 2px;
+	color: #fff;
+	font-family: comic sans ms;
+	font-size: 500;
+	transition: 0.2s ease;
+	cursor: pointer;
+}
