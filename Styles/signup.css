@@ -123,3 +123,18 @@ button.social
 	transition: 0.2s ease;
 	cursor: pointer;
 }
+
+.facebook
+{
+	background: #32508e;
+}
+
+.twitter
+{
+	background: #55acee;
+}
+
+.google
+{
+	background: #dd4b39;
+}
