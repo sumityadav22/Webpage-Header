@@ -12,9 +12,9 @@
 			</div>
 			<ul>
 				<li class="active"><a href="#">Home</a></li>
-				<li><a href="#">Gallery</a></li>
-				<li><a href="#">Contact</a></li>
-				<li><a href="#">About Us</a></li>
+				<li><a onclick="alertmessage()" href="#">Gallery</a></li>
+				<li><a onclick="alertmessage()" href="#">Contact</a></li>
+				<li><a onclick="alertmessage()" href="#">About Us</a></li>
 			</ul>
 		</div>
 		<div class = "title">
@@ -26,5 +26,11 @@
 			<a href="#" class="btn">SignIn</a>
 		</div>
 	</header>
+	<script>
+	function alertmessage() {
+	  document.getElementsByClassName("btn");
+	  alert("Sorry we are unable to reach this page :(")
+	}
+	</script>
 </body>
 </html>
