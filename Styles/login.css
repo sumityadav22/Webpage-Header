@@ -62,3 +62,12 @@ body{
 	cursor: pointer;
 	margin: 12px 0;
 }
+
+.logo img{
+	float: none;
+	margin-top: 12px;
+	margin-left: 12px;
+	width: 50px;
+	height: auto;
+	cursor: pointer;
+}
