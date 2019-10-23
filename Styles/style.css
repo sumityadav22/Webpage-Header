@@ -36,6 +36,7 @@ ul li a:hover{
 }
 
 .logo img{
+	cursor: pointer;
 	float: left;
 	width: 90px;
 	height: auto;
